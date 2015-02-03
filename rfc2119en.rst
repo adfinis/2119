@@ -3,6 +3,8 @@ Network Working Group             Scott Bradner
 Request for Comments: 2119        Harvard University
 BCP: 14                           March 1997
 Category:                         Best Current Practice
+Modified by:                      Jean-Louis Fuchs
+                                  ganwell@fangorn.ch
 ===========================       =====================
 
 Key words for use in RFCs to Indicate Requirement Levels
@@ -31,6 +33,9 @@ beginning of their document:
 
 Note that the force of these words is modified by the requirement level of the
 document in which they are used.
+
+Definition
+----------
 
 1. MUST   This word, or the terms "REQUIRED" or "SHALL", mean that the
    definition is an absolute requirement of the specification.
@@ -61,7 +66,10 @@ document in which they are used.
    does not include the option (except, of course, for the feature the
    option provides.)
 
-6. Guidance in the use of these Imperatives
+Classification
+--------------
+
+1. Guidance in the use of these Imperatives
 
    Imperatives of the type defined in this memo must be used with care
    and sparingly.  In particular, they MUST only be used where it is
@@ -71,7 +79,7 @@ document in which they are used.
    on implementors where the method is not required for
    interoperability.
 
-7. Security Considerations
+2. Security Considerations
 
    These terms are frequently used to specify behavior with security
    implications.  The effects on security of not implementing a MUST or
@@ -82,7 +90,8 @@ document in which they are used.
    had the benefit of the experience and discussion that produced the
    specification.
 
-8. Acknowledgments
+Acknowledgments
+---------------
 
    The definitions of these terms are an amalgam of definitions taken
    from a number of RFCs.  In addition, suggestions have been
