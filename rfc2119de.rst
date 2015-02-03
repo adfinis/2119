@@ -1,24 +1,23 @@
 ===========================       =====================
 Network Working Group             Scott Bradner
 Request for Comments: 2119        Harvard University
-BCP: 14                           March 1997
-Category:                         Best Current Practice
-Modified by:                      Jean-Louis Fuchs
+Übersetzung                       Februar 2015
+Kategorie:                        bewährte Methoden
+Übersetzt von:                    Jean-Louis Fuchs
                                   ganwell@fangorn.ch
 ===========================       =====================
 
-Key words for use in RFCs to Indicate Requirement Levels
-========================================================
+Mit Schlüsselwörtern Anforderungen in RFCs anzeigen
+===================================================
 
-Status of this Memo
--------------------
+Status dieses Memorandum
+------------------------
 
-This document specifies an Internet Best Current Practices for the Internet
-Community, and requests discussion and suggestions for improvements.
-Distribution of this memo is unlimited.
+Dieses Dokument definiert bewähre Methoden für die Internetgemeinschaft und
+fordert zu Diskussionen und Vorschlägen zur Verbesserung auf.
 
-Abstract
---------
+Zusammenfassung
+---------------
 
 In many standards track documents several words are used to signify the
 requirements in the specification.  These words are often capitalized.  This
@@ -66,8 +65,8 @@ Definition
    does not include the option (except, of course, for the feature the
    option provides.)
 
-Classification
---------------
+Abgrenzung
+----------
 
 1. Guidance in the use of these Imperatives
 
@@ -90,8 +89,8 @@ Classification
    had the benefit of the experience and discussion that produced the
    specification.
 
-Acknowledgments
----------------
+Danksagung
+----------
 
 The definitions of these terms are an amalgam of definitions taken from a number
 of RFCs.  In addition, suggestions have been incorporated from a number of
