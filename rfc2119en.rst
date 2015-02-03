@@ -3,7 +3,7 @@ Network Working Group                         S. Bradner
 Request for Comments: 2119            Harvard University
 BCP: 14                                       March 1997
 Category: Best Current Practice
-===============================       =================
+===============================       ==================
 
 Key words for use in RFCs to Indicate Requirement Levels
 ========================================================
