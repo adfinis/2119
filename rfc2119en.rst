@@ -1,9 +1,9 @@
-===============================       ==================
-Network Working Group                         S. Bradner
-Request for Comments: 2119            Harvard University
-BCP: 14                                       March 1997
-Category: Best Current Practice
-===============================       ==================
+===========================       =====================
+Network Working Group             Scott Bradner
+Request for Comments: 2119        Harvard University
+BCP: 14                           March 1997
+Category:                         Best Current Practice
+===========================       =====================
 
 Key words for use in RFCs to Indicate Requirement Levels
 ========================================================
@@ -89,7 +89,7 @@ document in which they are used.
    incorporated from a number of people including Robert Ullmann, Thomas
    Narten, Neal McBurnett, and Robert Elz.
 
-9. Author's Address
+9. Author's Address::
 
       Scott Bradner
       Harvard University
