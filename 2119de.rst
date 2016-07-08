@@ -19,7 +19,7 @@ folgenden Satz am Anfang ihres Dokuments einfügen::
 
    Die Schlüsselwörter "MUSS", "DARF NICHT", "ERFORDERLICH", "SOLL", "VERBOTEN",
    "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF", "KANN" und
-   "OPTIONAL" werden nach RFC 2119 interpretiert. https://goo.gl/6QZH4J
+   "OPTIONAL" werden nach 2119de interpretiert. https://goo.gl/6QZH4J
 
 Beachten Sie dass die Aussagekraft dieser Wörter, durch die Anforderungen des Dokuments
 in welchem sie verwendet werden, relativiert werden können.
