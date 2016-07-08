@@ -21,7 +21,7 @@ Zusammenfassung
 
 Im Standardisierungsverfahren werden in vielen Dokumenten Schlüsselwörter
 verwendet um Anforderungen der Spezifikation aufzuzeigen. Diese Wörter werden
-auf gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
+oft gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
 Dokumenten interpretiert werden sollen. Autoren die diesen Richtlinien folgen,
 sollten den folgenden Satz am Anfang ihres Dokuments einfügen:
 
@@ -61,7 +61,7 @@ DARF
    Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
    speziellen Mark erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
    weglassen. Eine Implementation dieses Verhalten weglässt MUSS bereit sein,
-   mit einer anderen Implementation die dieses Verhalten einschliesst zu zu
+   mit einer anderen Implementation die dieses Verhalten einschliesst zu
    interagieren. In der selben Art MUSS eine Implementation die dieses Verhalten
    einschliesst mit einer Implementation die diese Verhalten weglässt
    interagieren können. Natürlich ausschliesslich der Eigenschaft die dieses
