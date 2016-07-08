@@ -35,23 +35,28 @@ in welchem sie verwendet werden relativiert werden können.
 Definition
 ----------
 
-1. MUSS        Oder die Schlüsselwörter "ERFORDERLICH" oder "NÖTIG", bedeuten
+MUSS
+   Oder die Schlüsselwörter "ERFORDERLICH" oder "NÖTIG", bedeuten
    dass die Definition eine absolute Anforderung der Spezifikation sind.
 
-2. DARF NICHT  Oder das Wort "VERBOTEN" Bedeutet dass die Definitionen ein
+DARF NICHT
+   Oder das Wort "VERBOTEN" Bedeutet dass die Definitionen ein
    absolutes Verbot der Spezifikation sind.
 
-3. SOLL        Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen
+SOLL
+   Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen
    Situationen Gründe geben kann, diese Spezifikation zu ignorieren. Natürlich
    müssen die Auswirkungen voll und ganz Verstanden werden und sorgfältig
    abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
-4. SOLL NICHT  Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen
+SOLL NICHT
+   Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen
    Situationen geben kann, dass dieses Verhalten akzeptabel ja sogar nützlich
    sein kann. Natürlich müssen die Auswirkungen voll und ganz Verstanden werden
    und sorgfältig abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
-5. DARF        Oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
+DARF
+   Oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
    dieses Verhalten wirklich optional ist. Ein Anbieter kann entscheiden dieses
    Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
    speziellen Mark erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
