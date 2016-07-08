@@ -98,7 +98,7 @@ Die Definitionen basieren auf  existierender RFCs. Zusätzlich sind
 Anmerkungen einer Reihe von Leuten eingeflossen, unter anderem Robert Ullmann,
 Thomas Narten, Neal McBurnett and Robert Elz.
 
-9. Adress des Autors::
+Adress des Autors::
 
       Scott Bradner
       Harvard University

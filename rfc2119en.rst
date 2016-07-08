@@ -101,7 +101,7 @@ The definitions of these terms are an amalgam of definitions taken from a number
 of RFCs.  In addition, suggestions have been incorporated from a number of
 people including Robert Ullmann, Thomas Narten, Neal McBurnett, and Robert Elz.
 
-9. Author's Address::
+Author's Address::
 
       Scott Bradner
       Harvard University
