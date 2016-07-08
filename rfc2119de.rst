@@ -44,16 +44,16 @@ DARF NICHT
    absolutes Verbot der Spezifikation sind.
 
 SOLL
-   Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen
-   Situationen Gründe geben kann, diese Spezifikation zu ignorieren. Natürlich
-   müssen die Auswirkungen voll und ganz Verstanden werden und sorgfältig
-   abgewägt werden, bevor von der Spezifikation abgewichen wird.
+   Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen Situationen
+   Gründe geben kann, diese Spezifikation zu ignorieren. Natürlich müssen die
+   Auswirkungen voll und ganz Verstanden und sorgfältig abgewägt werden, bevor
+   von der Spezifikation abgewichen wird.
 
 SOLL NICHT
-   Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen
-   Situationen geben kann, dass dieses Verhalten akzeptabel ja sogar nützlich
-   sein kann. Natürlich müssen die Auswirkungen voll und ganz Verstanden werden
-   und sorgfältig abgewägt werden, bevor von der Spezifikation abgewichen wird.
+   Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen Situationen
+   geben kann, dass dieses Verhalten akzeptabel ja sogar nützlich sein kann.
+   Natürlich müssen die Auswirkungen voll und ganz Verstanden und sorgfältig
+   abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
 DARF
    Oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
@@ -69,7 +69,7 @@ DARF
 
 Anmerkung fürs Deutsche: Die Schlüsselwörter DÜRFEN dekliniert und konjugiert
 werden. Die Grossschreibung ist ausreichend um die Schlüsselwörter zu erkennen.
-"NICHT" kann mit "KEIN" ersetzt werden, wie im Deutschen üblich ist.
+"NICHT" kann mit "KEIN" ersetzt werden, wie es im Deutschen üblich ist.
 
 Abgrenzung
 ----------
