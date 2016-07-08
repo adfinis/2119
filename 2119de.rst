@@ -49,14 +49,16 @@ SOLL NICHT
 
 DARF
    oder "KANN", "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten, dass
-   dieses Verhalten wirklich optional ist. Ein Anbieter kann entscheiden dieses
-   Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
-   speziellen Markt erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
-   weglassen. Eine Implementation die dieses Verhalten weglässt MUSS bereit
-   sein, mit einer anderen Implementation welche dieses Verhalten einschliesst, zu
-   interagieren. In der selben Art MUSS eine Implementation die dieses Verhalten
-   einschliesst mit einer Implementation die dieses Verhalten weglässt
-   interagieren können.
+   dieses Verhalten wirklich optional ist.
+   
+   Wichtig bei der Definition einer Interaktion oder Protokolls: Ein Anbieter
+   kann entscheiden dieses Verhalten einzuschliessen, weil es das Produkt
+   verbessert oder für einen speziellen Markt erforderlich ist. Ein anderer
+   Anbieter kann dieses Verhalten weglassen. Eine Implementation die dieses
+   Verhalten weglässt MUSS bereit sein, mit einer anderen Implementation welche
+   dieses Verhalten einschliesst, zu interagieren. In der selben Art MUSS eine
+   Implementation die dieses Verhalten einschliesst mit einer Implementation die
+   dieses Verhalten weglässt interagieren können.
 
 Anmerkung fürs Deutsche: Alle Schlüsselwörter DÜRFEN dekliniert und konjugiert
 werden. Die Grossschreibung ist ausreichend um die Schlüsselwörter zu erkennen.
