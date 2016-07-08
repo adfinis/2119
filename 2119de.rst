@@ -1,67 +1,59 @@
-===========================       =====================
-Network Working Group             Scott Bradner
-Request for Comments: 2119        Harvard University
-Übersetzung                       Februar 2015
-Kategorie:                        bewährte Methoden
-Übersetzt von:                    Jean-Louis Fuchs
-                                  ganwell@fangorn.ch
-===========================       =====================
-
-Mit Schlüsselwörtern Anforderungen in RFCs anzeigen
-===================================================
+Schlüsselwörter zum Kennzeichnen von Anforderungen
+==================================================
 
 Status dieses Memorandum
 ------------------------
 
-Dieses Dokument definiert bewähre Methoden für die Internetgemeinschaft und
-fordert zu Diskussionen und Vorschlägen zur Verbesserung auf.
+Basierend auf RFCs 2119 definiert dieses Dokument Schlüsselwörter zum
+Kennzeichen von Anforderungen. Dies ist keine Übersetzung, sondern eine
+interpretation für Deutsche, damit dieses grossartige Werkzeug auch für Deutsche
+Dokumentationen eingesetzt werden kann.
 
 Zusammenfassung
 ---------------
 
 Im Standardisierungsverfahren werden in vielen Dokumenten Schlüsselwörter
 verwendet um Anforderungen der Spezifikation aufzuzeigen. Diese Wörter werden
-oft gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
-Dokumenten interpretiert werden sollen. Autoren die diesen Richtlinien folgen,
-sollten den folgenden Satz am Anfang ihres Dokuments einfügen:
+oft gross geschrieben. Autoren die diesen Richtlinien folgen, sollten den
+folgenden Satz am Anfang ihres Dokuments einfügen::
 
-      Die Schlüsselwörter "MUSS", "DARF NICHT", "ERFORDERLICH", "SOLL",
-      "VERBOTEN", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
-      "OPTIONAL" werden nach RFC 2119 interpretiert. https://goo.gl/IZkA4I
+   Die Schlüsselwörter "MUSS", "DARF NICHT", "ERFORDERLICH", "SOLL",
+   "VERBOTEN", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
+   "OPTIONAL" werden nach RFC 2119 interpretiert. https://goo.gl/IZkA4I
 
-Beachte dass die Aussagekraft dieser Wörter durch die Anforderungen des Dokument
-in welchem sie verwendet werden relativiert werden können.
+Beachten Sie dass die Aussagekraft dieser Wörter, durch die Anforderungen des Dokument
+in welchem sie verwendet werden, relativiert werden können.
 
 Definition
 ----------
 
 MUSS
-   Oder die Schlüsselwörter "ERFORDERLICH" oder "NÖTIG", bedeuten
+   oder die Schlüsselwörter "ERFORDERLICH" oder "NÖTIG", bedeuten
    dass die Definition eine absolute Anforderung der Spezifikation sind.
 
 DARF NICHT
-   Oder das Wort "VERBOTEN" Bedeutet dass die Definitionen ein
+   oder das Wort "VERBOTEN" Bedeutet dass die Definitionen ein
    absolutes Verbot der Spezifikation sind.
 
 SOLL
-   Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen Situationen
+   oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen Situationen
    Gründe geben kann, diese Spezifikation zu ignorieren. Natürlich müssen die
    Auswirkungen voll und ganz Verstanden und sorgfältig abgewägt werden, bevor
    von der Spezifikation abgewichen wird.
 
 SOLL NICHT
-   Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen Situationen
+   oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen Situationen
    geben kann, dass dieses Verhalten akzeptabel ja sogar nützlich sein kann.
    Natürlich müssen die Auswirkungen voll und ganz Verstanden und sorgfältig
    abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
 DARF
-   Oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
+   oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
    dieses Verhalten wirklich optional ist. Ein Anbieter kann entscheiden dieses
    Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
    speziellen Mark erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
-   weglassen. Eine Implementation dieses Verhalten weglässt MUSS bereit sein,
-   mit einer anderen Implementation die dieses Verhalten einschliesst zu
+   weglassen. Eine Implementation die dieses Verhalten weglässt MUSS bereit
+   sein, mit einer anderen Implementation die dieses Verhalten einschliesst zu
    interagieren. In der selben Art MUSS eine Implementation die dieses Verhalten
    einschliesst mit einer Implementation die diese Verhalten weglässt
    interagieren können. Natürlich ausschliesslich der Eigenschaft die dieses
@@ -94,17 +86,14 @@ Abgrenzung
 Danksagung
 ----------
 
-Die Definitionen basieren auf  existierender RFCs. Zusätzlich sind
+Ich Danke den Autoren des RFCs 2119, welches es mir ermöglich hat 2119de zu
+schreiben.
+
+Die Definitionen basieren auf existierender RFCs. Zusätzlich sind
 Anmerkungen einer Reihe von Leuten eingeflossen, unter anderem Robert Ullmann,
 Thomas Narten, Neal McBurnett and Robert Elz.
 
-Adress des Autors::
+Autor des orginal RFCs 2119::
 
-      Scott Bradner
-      Harvard University
-      1350 Mass. Ave.
-      Cambridge, MA 02138
-
-      phone - +1 617 495 3864
-
-      email - sob@harvard.edu
+   Scott Bradner
+   email - sob@harvard.edu
