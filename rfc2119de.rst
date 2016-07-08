@@ -25,8 +25,8 @@ auf gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
 Dokumenten interpretiert werden sollen. Autoren die diesen Richtlinien folgen,
 sollten den folgenden Satz am Anfang ihres Dokuments einfügen:
 
-      Die Schlüsselwörter "MUSS", "DARF NICHT", "VERBOTEN", "ERFORDERLICH",
-      "SOLL", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
+      Die Schlüsselwörter "MUSS", "DARF NICHT", "ERFORDERLICH", "SOLL",
+      "VERBOTEN", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
       "OPTIONAL" werden nach RFC 2119 interpretiert. https://goo.gl/IZkA4I
 
 Beachte dass die Aussagekraft dieser Wörter durch die Anforderungen des Dokument
