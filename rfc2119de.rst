@@ -19,84 +19,81 @@ fordert zu Diskussionen und Vorschlägen zur Verbesserung auf.
 Zusammenfassung
 ---------------
 
-In many standards track documents several words are used to signify the
-requirements in the specification.  These words are often capitalized.  This
-document defines these words as they should be interpreted in IETF documents.
-Authors who follow these guidelines should incorporate this phrase near the
-beginning of their document:
+Im Standardisierungsverfahren werden in vielen Dokumenten Schlüsselwörter
+verwendet um Anforderungen der Spezifikation aufzuzeigen. Diese Wörter werden
+auf gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
+Dokumenten interpretiert werden sollen. Autoren die diesen Richtlinien folgen,
+sollten den folgenden Satz am Anfang ihres Dokuments einfügen:
 
-      The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
-      NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and
-      "OPTIONAL" in this document are to be interpreted as described in
-      RFC 2119.
+      Die Schlüsselwörter "MUSS", "DARF NICHT", "VERBOTEN", "ERFORDERLICH",
+      "SOLL", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
+      "OPTIONAL" werden nach RFC 2119 interpretiert.
 
-Note that the force of these words is modified by the requirement level of the
-document in which they are used.
+Beachte dass die Aussagekraft dieser Wörter durch die Anforderungen des Dokument
+in welchem sie verwendet werden relativiert werden können.
 
 Definition
 ----------
 
-1. MUST   This word, or the terms "REQUIRED" or "SHALL", mean that the
-   definition is an absolute requirement of the specification.
+1. MUSS        Oder die Schlüsselwörter "ERFORDERLICH" oder "NÖTIG", bedeuten
+   dass die Definition eine absolute Anforderung der Spezifikation sind.
 
-2. MUST NOT   This phrase, or the phrase "SHALL NOT", mean that the
-   definition is an absolute prohibition of the specification.
+2. DARF NICHT  Oder das Wort "VERBOTEN" Bedeutet dass die Definitionen ein
+   absolutes Verbot der Spezifikation sind.
 
-3. SHOULD   This word, or the adjective "RECOMMENDED", mean that there
-   may exist valid reasons in particular circumstances to ignore a
-   particular item, but the full implications must be understood and
-   carefully weighed before choosing a different course.
+3. SOLL        Oder das Adjektiv "EMPFOHLEN" bedeuteten dass es in speziellen
+   Situationen Gründe geben kann, diese Spezifikation zu ignorieren. Natürlich
+   müssen die Auswirkungen voll und ganz Verstanden werden und sorgfältig
+   abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
-4. SHOULD NOT   This phrase, or the phrase "NOT RECOMMENDED" mean that
-   there may exist valid reasons in particular circumstances when the
-   particular behavior is acceptable or even useful, but the full
-   implications should be understood and the case carefully weighed
-   before implementing any behavior described with this label.
+4. SOLL NICHT  Oder "NICHT EMPFOHLEN" bedeutet dass es gute Gründe in speziellen
+   Situationen geben kann, dass dieses Verhalten akzeptabel ja sogar nützlich
+   sein kann. Natürlich müssen die Auswirkungen voll und ganz Verstanden werden
+   und sorgfältig abgewägt werden, bevor von der Spezifikation abgewichen wird.
 
-5. MAY   This word, or the adjective "OPTIONAL", mean that an item is
-   truly optional.  One vendor may choose to include the item because a
-   particular marketplace requires it or because the vendor feels that
-   it enhances the product while another vendor may omit the same item.
-   An implementation which does not include a particular option MUST be
-   prepared to interoperate with another implementation which does
-   include the option, though perhaps with reduced functionality. In the
-   same vein an implementation which does include a particular option
-   MUST be prepared to interoperate with another implementation which
-   does not include the option (except, of course, for the feature the
-   option provides.)
+5. DARF        Oder "NICHT NÖTIG" oder das Adjektiv "OPTIONAL" bedeuten dass
+   dieses Verhalten wirklich optional ist. Ein Anbieter kann entscheiden dieses
+   Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
+   speziellen Mark erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
+   weglassen. Eine Implementation dieses Verhalten weglässt MUSS bereit sein,
+   mit einer anderen Implementation die dieses Verhalten einschliesst zu zu
+   interagieren. In der selben Art MUSS eine Implementation die dieses Verhalten
+   einschliesst mit einer Implementation die diese Verhalten weglässt
+   interagieren können. Natürlich ausschliesslich der Eigenschaft die dieses
+   Verhalten anbietet.
+
+Anmerkung fürs Deutsche: Die Schlüsselwörter DÜRFEN dekliniert und konjugiert
+werden. Die Grossschreibung ist ausreichend um die Schlüsselwörter zu erkennen.
+"NICHT" kann mit "KEIN" ersetzt werden, wie im Deutschen üblich ist.
 
 Abgrenzung
 ----------
 
-1. Guidance in the use of these Imperatives
+1. Leitlinie für die Verwendung dieser Richtlinie
 
-   Imperatives of the type defined in this memo must be used with care
-   and sparingly.  In particular, they MUST only be used where it is
-   actually required for interoperation or to limit behavior which has
-   potential for causing harm (e.g., limiting retransmisssions)  For
-   example, they must not be used to try to impose a particular method
-   on implementors where the method is not required for
-   interoperability.
+   Die Gebote die in diesem Memo definiert sind, sollen sparsam und mit Sorgfalt
+   eingesetzt werden. Im speziellen ist es NÖTIG sie nur zu benutzen wo es für
+   die Interaktion wichtig ist oder um nachteiliges Verhalten auszuschliessen.
+   Sie DÜRFEN KEINE Implementationsdetails vorschreiben, welche unabhängig von
+   der Interaktion sind.
 
-2. Security Considerations
+2. Sicherheitsbedenken
 
-   These terms are frequently used to specify behavior with security
-   implications.  The effects on security of not implementing a MUST or
-   SHOULD, or doing something the specification says MUST NOT or SHOULD
-   NOT be done may be very subtle. Document authors should take the time
-   to elaborate the security implications of not following
-   recommendations or requirements as most implementors will not have
-   had the benefit of the experience and discussion that produced the
-   specification.
+   Diese Begriffe werden oft verwendet und sicherheitsrelevantes Verhalten zu
+   definieren. Ein MUSS oder SOLL wegzulassen kann oder etwas zu tun das als
+   DARF NICHT oder SOLL NICHT definiert ist, kann subtile Auswirkungen haben.
+   Autoren sollten sich Zeit nehmen um über Sicherheitsauswirkungen
+   nachzudenken, da die Anwender des Dokuments unter Umständen nicht über die
+   selbe Erfahrung und Hintergrundwissen verfügen.
 
 Danksagung
 ----------
 
-The definitions of these terms are an amalgam of definitions taken from a number
-of RFCs.  In addition, suggestions have been incorporated from a number of
-people including Robert Ullmann, Thomas Narten, Neal McBurnett, and Robert Elz.
+Die Definitionen basieren auf  existierender RFCs. Zusätzlich sind
+Anmerkungen einer Reihe von Leuten eingeflossen, unter anderem Robert Ullmann,
+Thomas Narten, Neal McBurnett and Robert Elz.
 
-9. Author's Address::
+9. Adress des Autors::
 
       Scott Bradner
       Harvard University
