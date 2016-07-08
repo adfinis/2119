@@ -21,12 +21,12 @@ Zusammenfassung
 
 Im Standardisierungsverfahren werden in vielen Dokumenten Schlüsselwörter
 verwendet um Anforderungen der Spezifikation aufzuzeigen. Diese Wörter werden
-auf gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
+oft gross geschrieben. Dieses Dokument definiert wie diese Wörter in IETF
 Dokumenten interpretiert werden sollen. Autoren die diesen Richtlinien folgen,
 sollten den folgenden Satz am Anfang ihres Dokuments einfügen:
 
-      Die Schlüsselwörter "MUSS", "DARF NICHT", "VERBOTEN", "ERFORDERLICH",
-      "SOLL", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
+      Die Schlüsselwörter "MUSS", "DARF NICHT", "ERFORDERLICH", "SOLL",
+      "VERBOTEN", "NÖTIG", "NICHT NÖTIG", "SOLL NICHT", "EMPFOHLEN", "DARF" und
       "OPTIONAL" werden nach RFC 2119 interpretiert. https://goo.gl/IZkA4I
 
 Beachte dass die Aussagekraft dieser Wörter durch die Anforderungen des Dokument
@@ -61,7 +61,7 @@ DARF
    Verhalten einzuschliessen, weil es das Produkt verbessert oder für einen
    speziellen Mark erforderlich ist. Ein anderer Anbieter kann dieses Verhalten
    weglassen. Eine Implementation dieses Verhalten weglässt MUSS bereit sein,
-   mit einer anderen Implementation die dieses Verhalten einschliesst zu zu
+   mit einer anderen Implementation die dieses Verhalten einschliesst zu
    interagieren. In der selben Art MUSS eine Implementation die dieses Verhalten
    einschliesst mit einer Implementation die diese Verhalten weglässt
    interagieren können. Natürlich ausschliesslich der Eigenschaft die dieses
