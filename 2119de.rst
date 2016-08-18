@@ -87,7 +87,7 @@ Abgrenzung
 Danksagung
 ----------
 
-Ich danke den Autoren des RFCs 2119, welches es mir ermöglich hat 2119de zu
+Ich danke den Autoren des RFCs 2119, welches es mir ermöglicht hat 2119de zu
 schreiben.
 
 Die Definitionen basieren auf existierenden RFCs. Zusätzlich sind
