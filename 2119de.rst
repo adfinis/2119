@@ -78,7 +78,7 @@ Abgrenzung
 2. Sicherheitsbedenken
 
    Diese Begriffe werden oft verwendet um sicherheitsrelevantes Verhalten zu
-   definieren. Ein MUSS oder SOLL wegzulassen oder etwas zu tun, dass als
+   definieren. Ein MUSS oder SOLL wegzulassen oder etwas zu tun, das als
    DARF NICHT oder SOLL NICHT definiert ist, kann subtile Auswirkungen haben.
    Autoren sollten sich Zeit nehmen, um über Sicherheitsauswirkungen
    nachzudenken, da die Anwender des Dokuments unter Umständen nicht über die
