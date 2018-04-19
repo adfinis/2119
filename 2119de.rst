@@ -7,7 +7,7 @@ Status dieses Memorandum
 Basierend auf RFC 2119 definiert dieses Dokument Schlüsselwörter zum
 Kennzeichen von Anforderungen. Dies ist keine Übersetzung, sondern eine
 Interpretation für Deutschsprachige, damit dieses grossartige Werkzeug auch für
-Deutsche Dokumentationen eingesetzt werden kann.
+deutsche Dokumentationen eingesetzt werden kann.
 
 Zusammenfassung
 ---------------
